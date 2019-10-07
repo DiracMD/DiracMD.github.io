@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Hexo</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2019-10-07T15:31:08.109Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>John Doe</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>frstblog</title>
+    <link href="http://yoursite.com/2019/10/07/frstblog/"/>
+    <id>http://yoursite.com/2019/10/07/frstblog/</id>
+    <published>2019-10-07T15:30:31.000Z</published>
+    <updated>2019-10-07T15:31:08.109Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="jxiao-first-static-blog"><a href="#jxiao-first-static-blog" class="headerlink" title="jxiao first static blog"></a>jxiao first static blog</h3>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h3 id=&quot;jxiao-first-static-blog&quot;&gt;&lt;a href=&quot;#jxiao-first-static-blog&quot; class=&quot;headerlink&quot; title=&quot;jxiao first static blog&quot;&gt;&lt;/a&gt;jxiao first stati
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+</feed>
